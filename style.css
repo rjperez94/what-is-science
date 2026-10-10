@@ -1,0 +1,134 @@
+#container {
+	height: auto;
+	width: 865px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	text-align: left;
+}
+#title {
+	height: 117px;
+	width: 845px;
+	text-align: left;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	border-top-style: groove;
+	border-right-style: groove;
+	border-bottom-style: groove;
+	border-left-style: groove;
+	padding: 0px;
+}
+#menu {
+	float: left;
+	height: 760px;
+	width: 175px;
+	padding: 5px;
+	text-align: center;
+	vertical-align: baseline;
+	margin: 0px;
+}
+#main {
+	background-color: #1C3259;
+	float: left;
+	height: 725px;
+	width: 480px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	text-align: center;
+	background-attachment: fixed;
+	border-top-width: medium;
+	border-right-width: medium;
+	border-bottom-width: medium;
+	border-left-width: medium;
+	padding: 5px;
+}
+#sub_topic h3 {
+	font-family: Algerian;
+	font-size: 18px;
+	color: #FFF;
+	text-decoration: underline;
+}
+
+
+#menu_right {
+	height: 760px;
+	width: 150px;
+	float: right;
+	padding: 10px;
+	text-align: left;
+	background-attachment: fixed;
+	color: #C5E9F5;
+	font-family: Algerian;
+}
+
+#footer {
+	float: left;
+	height: 125px;
+	width: 835px;
+	padding: 5px;
+	text-align: center;
+	font-family: "Bauhaus 93";
+	font-size: 24px;
+	font-weight: bold;
+	color: #002366;
+}
+
+h1 {
+	color: #FFF;
+	font-family: "pandora limiter";
+	font-weight: bold;
+}
+#sub_topic {
+	padding: 10px;
+	overflow: auto;
+	height: 600px;
+	font-family: garamond;
+	font-size: 16px;
+}
+#foot {
+	height: 600px;
+	width: 600px;
+	float: none;
+}
+ol li {
+	text-align: left;
+}
+#container #menu_right a {
+	color: #C5E9F5;
+	font-size: 24px;
+}
+#container #main #sub_topic ul li {
+	text-align: left;
+}
+body {
+	background-color: #006496;
+	background-repeat: repeat-x;
+	background-attachment: fixed;
+	background-position: center center;
+	background-image: url(Images/background.jpg);
+}
+#container #menu_right a {
+	color: #C5E9F5;
+	font-size: 24px;
+}
+#container #main #sub_topic ul li {
+	text-align: left;
+	font-family: Garamond;
+}
+#what_pic {
+	float: left;
+}
+#h4_white {
+	background-color: #FFF;
+}
+#container #main #sub_topic #h4_white table {
+	font-size: 9px;
+}
+#study {
+	background-color: #FFF;
+}

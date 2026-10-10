@@ -1,0 +1,39 @@
+LEFT MENU
+
+Home
+
+<a href="http://cooltext.com"><img src="http://images.cooltext.com/2252997.png" width="179" height="93" alt="Home" /></a>
+
+Biology
+
+<a href="http://cooltext.com"><img src="http://images.cooltext.com/2252981.png" width="201" height="107" alt="Biology" /></a>
+
+Chemistry
+
+<a href="http://cooltext.com"><img src="http://images.cooltext.com/2252983.png" width="268" height="101" alt="Chemistry" /></a>
+
+Physics
+
+<a href="http://cooltext.com"><img src="http://images.cooltext.com/2252984.png" width="200" height="102" alt="Physics" /></a>
+
+Space
+
+<a href="http://cooltext.com"><img src="http://images.cooltext.com/2252987.png" width="173" height="98" alt="Space" /></a>
+
+Innovation
+
+<a href="http://cooltext.com"><img src="http://images.cooltext.com/2252988.png" width="276" height="92" alt="Innovation" /></a>
+
+Famous Scientist
+
+<a href="http://cooltext.com"><img src="http://images.cooltext.com/2252990.png" width="396" height="96" alt="Famous Scientist" /></a>
+
+Bibliography
+
+<a href="http://cooltext.com"><img src="http://images.cooltext.com/2252991.png" width="307" height="107" alt="Bibliography" /></a>
+
+Exam Tips
+
+<a href="http://cooltext.com"><img src="http://images.cooltext.com/2252992.png" width="270" height="103" alt="Exam Tips" /></a>
+
+RIGHT MENU

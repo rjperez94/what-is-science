@@ -1,0 +1,342 @@
+Science and technology
+
+Science and technology is a term of art used to encompass the relationship between science and technology. 
+It frequently appears within titles of academic disciplines (science and technology studies) and government offices.
+
+Biology
+
+Biology is a natural science concerned with the study of life and living organisms, 
+including their structure, function, growth, origin, evolution, distribution, and taxonomy.
+Biology is a vast subject containing many subdivisions, topics, and disciplines. 
+Among the most important topics are five unifying principles that can be said to be the fundamental axioms of modern biology:
+
+1.Cells are the basic unit of life
+2.New species and inherited traits are the product of evolution
+3.Genes are the basic unit of heredity
+4.An organism regulates its internal environment to maintain a stable and constant condition
+5.Living organisms consume and transform energy.
+
+Subdisciplines of biology are recognized on the basis of the scale at which organisms are studied and the methods used to study them: 
+biochemistry examines the rudimentary chemistry of life; molecular biology studies the complex interactions of systems of biological molecules; 
+cellular biology examines the basic building block of all life, the cell; 
+physiology examines the physical and chemical functions of the tissues, organs, and organ systems of an organism; 
+and ecology examines how various organisms interact and associate with their environment.
+
+LIFECYCLES
+Animals that Grow Up (Simple Life Cycle):
+Most animals including fish, mammals, reptiles and birds have very simple life cycles:
+
+they are born (either alive from their mother or hatched from eggs)
+  
+they grow up
+These animals have three stages -- before birth, young and adult.  The young are typically similar to the parent, just smaller.  The young slowly "grow" to become adults.
+
+ 
+
+Amphibians:
+Amphibians, like frogs and newts, have a slightly more complicated life cycle.  They undergo a metamorphosis (a big change):
+
+they are born (either alive from their mother or hatched from eggs)
+  
+they spend their childhood under water, breathing with gills
+  
+they grow into adults and move to the land, breathing with lungs
+ 
+
+Animals that Undergo a Complete Metamorphosis:
+Insects
+
+These insects have four stages in their life cycle:
+
+egg:    unborn stage.
+  
+larva:   young stage -- this is when most of the feeding is done.
+           (they usually look like worms)
+  
+pupa:  inactive (no feeding) stage between larva and adult stages.
+           (usually well camouflaged)
+  
+adult:   final, breeding stage.
+            (they usually grow wings) 
+Animals that go through a complete metamorphosis are what my daughter Kaitlyn calls "Wow!" animals -- they go to bed looking one way and wake up a completely different creature.  Wow! 
+
+ 
+
+Animals that Undergo an Incomplete Metamorphosis:
+About 10% of insects go through an incomplete metamorphosis.  They do not have a pupa form -- these include dragonflies, grasshoppers and cockroaches.
+
+These insects have three stages in their life cycle:
+
+egg:    unborn stage.
+  
+larva:   young stage -- this is when most of the feeding is done.
+  
+adult:   final, breeding stage - including wings.
+
+DNA
+Why were you interested in comparing the DNA of humans and chimps?
+Since chimps are our closest living relative on the tree of life, 
+we can start to figure out what's special about us if we compare our DNA to their DNA. 
+If we can find the little pieces of our genome that are unique, somewhere hiding in 
+there are messages about what makes humans human.
+ 
+How similar are chimps and humans in genetic makeup?
+When we finished the chimpanzee genome in 2005 and lined it up next to the human genome, 
+we made the amazing discovery that our DNA is almost 99 percent identical. That seems 
+like a bit of a paradox given all the differences we see between ourselves and chimps. 
+But, in fact, it's not a paradox, because all it takes to make a new species, all it 
+takes to make a human, is a few changes in just the right places.
+
+
+Chemistry
+
+Chemistry is the science of matter, especially its properties, structure, composition, behavior, reactions, interactions and the changes it undergoes.
+Chemistry is sometimes called "the central science" because it connects physics with other natural sciences such as astronomy, geology and biology.
+Physics also studies matter, but physics is the science of quantities of space and matter, and laws governing them. Chemistry is a branch of physical 
+science but not a branch of physics. However, chemistry utilizes physics. For example, chemistry uses quantities like energy and entropy in relation
+to the spontaneity of chemical processes. It also explains the structure and properties of matter as a consequence of the physical properties of
+chemical substances and their interactions. For example, steel is harder than iron because its atoms are bound together in a more rigid crystalline
+lattice; wood burns or undergoes rapid oxidation because it can react spontaneously with oxygen in a chemical reaction above a certain temperature;
+sugar and salt dissolve in water because their molecular/ionic properties are such that dissolution is preferred under the ambient conditions;
+The etymology of the word chemistry has been much disputed.[6] The genesis of chemistry can be traced to certain practices, known as alchemy, 
+which had been practiced for several millennia in various parts of the world, particularly the Middle East.
+
+ACIDS AND BASES
+1. General Definitions:
+
+  # Acid: a substance which when added to water produces hydrogen ions [H+].
+
+  # Base: a substance which when added to water produces hydroxide ions [OH-]. 
+
+2. Properties:
+
+    Acids:
+
+        * react with zinc, magnesium, or aluminum and form hydrogen (H2(g))
+
+        * react with compounds containing CO32- and form carbon dioxide and water
+
+        * turn litmus red
+
+        * taste sour (lemons contain citric acid, for example) DO NOT TASTE ACIDS IN THE LABORATORY!! 
+
+    Bases:
+
+        * feel soapy or slippery
+
+        * turn litmus blue
+
+        * they react with most cations to precipitate hydroxides
+
+        * taste bitter (ever get soap in your mouth?) DO NOT TASTE BASES IN THE LABORATORY!! 
+
+Physics
+
+Physics is a natural science that involves the study of matter and its motion through spacetime, along with related concepts such as energy and force.
+More broadly, it is the general analysis of nature, conducted in order to understand how the universe behaves.
+Physics is one of the oldest academic disciplines, perhaps the oldest through its inclusion of astronomy.
+Over the last two millennia, physics was a part of natural philosophy along with chemistry, certain branches of mathematics, and biology, 
+but during the Scientific Revolution in the 16th century, the natural sciences emerged as unique research programs in their own right. 
+Certain research areas are interdisciplinary, such as biophysics and quantum chemistry, which means that the boundaries of physics are not rigidly defined. 
+In the nineteenth and twentieth centuries physicalism emerged as a major unifying feature of the philosophy of science as physics provided 
+fundamental explanations for observed natural phenomenon. New ideas in physics often explain the fundamental mechanisms of other sciences, 
+while opening new avenues of research in areas such as mathematics and philosophy.
+
+Physics also makes significant contributions through advances in new technologies that arise from theoretical breakthroughs. 
+For example, advances in the understanding of electromagnetism or nuclear physics led directly to the development of new products 
+which have dramatically transformed modern-day society, such as television, computers, domestic appliances, and nuclear weapons; 
+advances in thermodynamics led to the development of industrialization; and, advances in mechanics inspired the development of calculus.
+
+ENERGY AND FORCES
+Contact Forces
+In physics, a contact force is a force that acts at the point of contact between two objects,[1] in contrast to body forces. Contact forces are described by Newton's laws of motion, as with all other forces in dynamics.
+Friction is the force resisting the relative motion of solid surfaces, fluid layers, and/or material elements sliding against each other. 
+Non-contact
+A non-contact force is a force applied to an object by another body that is not in direct contact with it. The most common example of a non-contact force is gravity. A non-contact force is different from a contact force, which is a force applied to a body by another body that is in contact with it. However it is to be noted that the origin of all contact forces (such as, for example, friction) can be traced to non-contact forces.
+
+Examples of non-contact forces include:
+
+Gravity, a non-contact force between an two objects, and related to the concept of mass. The force exerted on each body by the other through weight is proportional to the mass of the first body times the mass of the second body divided by the square of the distance between them. The direction of the force is from the body acted on towards the body applying the force. A human body's weight is a non-contact force exerted by the Earth on their mass.
+Electromagnetism is the force that causes the interaction between electrically charged particles; the areas in which this happens are called electromagnetic fields. Examples of this force include: electricity, magnetism, radio waves, microwaves, infrared, visible light, X-rays and gamma rays.
+
+Space
+
+Outer space is the void that exists beyond any celestial body, including the Earth. 
+It is not completely empty, but consists of a hard vacuum containing a low density of particles: 
+predominantly a plasma of hydrogen and helium, as well as electromagnetic radiation, magnetic fields, and neutrinos. 
+Theoretically, it also contains dark matter and dark energy.
+
+ISS
+The International Space Station (ISS) is an internationally-developed research facility assembled in low Earth orbit 
+and is the largest space station ever constructed. 
+On-orbit construction of the station began in 1998 and is expected to be finished in 2012. 
+The station is expected to remain in operation until at least 2020, and potentially to 2028. 
+Like many artificial satellites, the ISS can be seen from Earth with the naked eye. 
+The ISS serves as a research laboratory that has a microgravity environment in which crews conduct experiments in biology, 
+human biology, physics, astronomy and meteorology. The station has a unique environment for the testing of the spacecraft 
+systems that will be required for missions to the Moon and Mars. The ISS is operated by Expedition crews, and has been 
+continuously staffed since 2 November 2000—an uninterrupted human presence in space for the past 10 years and 306 days. As of June 2011[update], 
+the crew of Expedition 28 is aboard.
+
+
+Latest Discoveries
+Picture JPEG of latest galaxy
+
+Innovation
+
+Energy Development
+Energy development is the effort to provide sufficient primary energy sources and secondary energy forms for supply, cost, 
+impact on air pollution and water pollution, mitigation of climate change with renewable energy.
+
+Technologically advanced societies have become increasingly dependent on external energy sources for transportation, the production of many manufactured 
+goods, and the delivery of energy services. This energy allows people who can afford the cost to live under otherwise unfavorable 
+climatic conditions through the use of heating, ventilation, and/or air conditioning. Level of use of external energy sources 
+differs across societies, as do the climate, convenience, levels of traffic congestion, pollution and availability of domestic energy sources.
+
+Renewable energy
+Renewable energy is energy which comes from natural resources such as sunlight, wind, rain, tides, and geothermal heat, 
+which are renewable (naturally replenished.) Renewable energy is an alternative to fossil fuels and nuclear power, and was commonly called 
+alternative energy in the 1970s and 1980s. In 2008, about 19% of global final energy consumption came from renewables, with 13% coming 
+from traditional biomass, which is mainly used for heating, and 3.2% from hydroelectricity. New renewables (small hydro, modern biomass, 
+wind, solar, geothermal, and biofuels) accounted for another 2.7% and are growing very rapidly. The share of renewables in electricity 
+generation is around 18%, with 15% of global electricity coming from hydroelectricity and 3% from new renewables
+
+Fossil Fuels
+Fossil fuels sources burn coal or hydrocarbon fuels, which are the remains of the decomposition of plants and animals. 
+There are three main types of fossil fuels: coal, petroleum, and natural gas. Another fossil fuel, liquefied petroleum gas (LPG), 
+is principally derived from the production of natural gas. Heat from burning fossil fuel is used either directly for space heating 
+and process heating, or converted to mechanical energy for vehicles, industrial processes, or electrical power generation.
+
+Greenhouse gas emissions result from fossil fuel-based electricity generation. 
+Currently governments subsidize fossil fuels by an estimated $500 billion a year.
+
+Nuclear Energy
+Nuclear power is the use of sustained nuclear fission to generate heat and do useful work. 
+Nuclear power plants provide about 6% of the world's energy and 13–14% of the world's electricity, with the U.S., 
+France, and Japan together accounting for about 50% of nuclear generated electricity. In 2007, the IAEA reported 
+there were 439 nuclear power reactors in operation in the world, operating in 31 countries. Also, more than 150 
+naval vessels using nuclear propulsion have been built.
+
+There is an ongoing debate about the use of nuclear energy. Proponents, such as the World Nuclear Association and IAEA, 
+contend that nuclear power is a sustainable energy source that reduces carbon emissions. Opponents, such as Greenpeace 
+International and NIRS, believe that nuclear power poses many threats to people and the environment.
+
+Famous Scientist
+
+Aristotle
+Aristotle (384 BC - March 7, 322 BC) was an ancient Greek philosopher, student of Plato and teacher of 
+Alexander the Great. He wrote many books about physics, poetry, zoology, logic, rhetoric, government, and biology. 
+
+Charles Darwin
+Charles Darwin (Feb. 12, 1809 - April 19, 1882) was an English naturalist renowned for his documentation of evolution 
+and for his theory of its operation, known as Darwinism. His evolutionary theories, propounded chiefly in two works--On the Origin of Species 
+by Means of Natural Selection (1859) and The Descent of Man, and Selection in Relation to Sex (1871)--have had a 
+profound influence on subsequent scientific thought.
+
+Thomas Edison
+Thomas Alva Edison (February 11, 1847 - Oct. 18, 1931) was an American inventor who, singly or jointly, 
+held a world record 1,093 patents. In addition, he created the world's first industrial research laboratory.
+
+Edison was the quintessential American inventor in the era of Yankee ingenuity. He began his career in 1863, 
+in the adolescence of the telegraph industry, when virtually the only source of electricity was primitive 
+batteries putting out a low-voltage current.
+
+Before he died, in 1931, he had played a critical role in introducing the modern age of electricity. 
+From his laboratories and workshops emanated the phonograph, the carbon-button transmitter for the telephone 
+speaker and microphone, the incandescent lamp, a revolutionary generator of unprecedented efficiency, the first commercial 
+electric light and power system, an experimental electric railroad, and key elements of motion-picture apparatus, as well as a host of other inventions.
+
+Albert Einstein
+Albert Einstein was a German-born theoretical physicist who is widely considered one of the greatest physicists of all time.
+
+While best known for the theory of relativity (and specifically mass-energy equivalence, E=mc2), he was awarded the 1921 
+Nobel Prize in Physics for his 1905 (Annus Mirabilis) explanation of the photoelectric effect and "for his services to Theoretical Physics". 
+In popular culture, the name "Einstein" has become synonymous with great intelligence and genius. 
+Einstein was named Time magazine's "Man of the Century."
+
+He was known for many scientific investigations, among which were: his special theory of relativity which stemmed 
+from an attempt to reconcile the laws of mechanics with the laws of the electromagnetic field, his general theory 
+of relativity which extended the principle of relativity to include gravitation, relativistic cosmology, capillary 
+action, critical opalescence, classical problems of statistical mechanics and problems in which they were merged with 
+quantum theory, leading to an explanation of the Brownian movement of molecules; atomic transition probabilities, 
+the probabilistic interpretation of quantum theory, the quantum theory of a monatomic gas, the thermal properties of light 
+with a low radiation density which laid the foundation of the photon theory of light, the theory of radiation, 
+including stimulated emission; the construction of a unified field theory, and the geometrization of physics. 
+
+Galileo Galilei
+Galileo Galilei was a Italian physicist, mathematician, astronomer, and philosopher who played a major 
+role in the Scientific Revolution. His achievements include improvements to the telescope and consequent 
+astronomical observations, and support for Copernicanism. 
+
+Isaac Newton
+Sir Isaac Newton (January 4, 1643 - March 31, 1727) was an English mathematician, physicist, astronomer, 
+alchemist, and natural philosopher who is generally regarded as one of the greatest scientists and mathematicians 
+in history. Newton wrote the Philosophiae Naturalis Principia Mathematica, in which he described universal 
+gravitation and the three laws of motion, laying the groundwork for classical mechanics. By deriving Kepler's 
+laws of planetary motion from this system, he was the first to show that the motion of objects on Earth and of 
+celestial bodies are governed by the same set of natural laws. The unifying and deterministic power of his laws 
+was integral to the scientific revolution and the advancement of heliocentrism. 
+
+Biography
+
+Exam Tips
+
+Study Advice
+Be prepared
+
+    Go to all revision sessions for your subjects.
+    Have up-to-date course notes. If you don't, ask your teachers for the latest versions.
+    Practise assessments and examination papers.
+    Know what is required for each achievement standard.
+
+
+Planning
+
+    Set regular routines of study.
+    Choose a quiet, airy, well-lit place to study.
+    Set study goals
+        Daily goals
+        Weekly goals
+        Long-term goals
+    Know your deadlines.
+    Make a study timetable
+    Do a small amount of study on each subject every night.
+
+
+Relax
+
+    Have lots of breaks eg break every 50 minutes for 10 minutes.
+    Eat healthily, sleep regularly and exercise.
+    Reward yourself regularly.
+    If stressed, ask for help. Your teachers want you to succeed; ask them!
+
+Exam Advice
+Before the exam
+
+    Check the time and place for the exam.
+    Do not cram at the last minute.
+    Put your equipment in a clear plastic bag the night before.
+    Get a good night's sleep.
+    Eat before the exam but not junk food.
+    Avoid people who make you feel nervous.
+    Stay calm and confident. Breathe deeply.
+    Don't forget your equipment.
+    Be early for the exam.
+
+
+In the exam
+
+    Stay calm. Relax. Stay focused.
+    Have confidence in yourself.
+    Answer the easy questions first.
+    Do not spend too long on each question. If you have extra time at the end return to the question.
+    Do not use twink, pencil or red pen.
+    Cross out mistakes with a single line.
+    Use diagrams to support your answer. Label clearly.
+    Read questions twice. Circle key terms.
+    Do not bulk up an answer. Keep to the point!
+    Proof read answers. Ask yourself – Have I written a complete answer? Have I answered the question that was asked?
+    Match the length of your answer to the space provided.
+    Watch out for plurals in questions. For example, 'Name features of graphs' means that you are required to write at least two features.
+    Label extra pages clearly and attach them to your exam booklet.
+
